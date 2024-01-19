@@ -3,7 +3,7 @@
 - start a new project: `django-admin startproject <project_name>`
 - running the server: `python manage.py runserver`
 - build an application web: `python manage.py startapp <app_name>`
-- 
+
 
 ## Application:
 - Routes: `urls.py` routing and render the responsive
